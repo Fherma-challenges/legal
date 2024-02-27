@@ -2,11 +2,11 @@
 
 PLEASE NOTE THAT YOUR USE OF AND ACCESS TO OUR CHALLENGES (DEFINED BELOW) ARE SUBJECT TO THE FOLLOWING TERMS. IF YOU DO NOT AGREE TO ALL OF THE FOLLOWING, YOU MAY NOT USE OR ACCESS THE SERVICES IN ANY MANNER.
 
-Effective Date: November 30, 2023
+Effective Date: February 26, 2023
 
-Welcome to FHERMA. Please read on to learn the rules and restrictions that govern your participation in the FHERMA Challenges  in any manner and/or submitting any Solutions to Yasha Lab, use of our website and test cases (the “Services”). If you have any questions, comments, or concerns regarding these Terms or the Services, please contact us at support@fherma.io 
+Welcome to FHERMA. Please read on to learn the rules and restrictions that govern your participation in the FHERMA Challenges  in any manner and/or submitting any Solutions to Fair Math, use of our website and test cases (the “Services”). If you have any questions, comments, or concerns regarding these Terms or the Services, please contact us at support@fherma.io 
 
-These Terms of Use (the “Terms”) are a binding contract between you (the “Participant”) and Yasha Lab, Inc. incorporated and acting under the laws of Delaware, whose registered office is located at 1111b South Governors Avenue, Dover, Delaware 19904 registered under the reference 35-2826660 (”Company"). You must agree to and accept all of the Terms, or you don’t have the right to use the Services. Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. In these Terms, the words “include” or “including” mean “including but not limited to”, and examples are for illustration purposes and are not limiting.
+These Terms of Use (the “Terms”) are a binding contract between you (the “Participant”) and Fair Math, Inc. incorporated and acting under the laws of Delaware, whose registered office is located at 1111b South Governors Avenue, Dover, Delaware 19904 registered under the reference 35-2826660 (”Company"). You must agree to and accept all of the Terms, or you don’t have the right to use the Services. Your use of the Services in any way means that you agree to all of these Terms, and these Terms will remain in effect while you use the Services. In these Terms, the words “include” or “including” mean “including but not limited to”, and examples are for illustration purposes and are not limiting.
 
 ## Will these Terms ever change?
 
@@ -32,7 +32,7 @@ To qualify for the Challenge, the Participant must:
 
 ### Registration process
 
-To submit a Solution, Participants must create an account by selecting a password and a username known as the "Fherma User ID". Participants commit to providing Yasha Lab with precise, complete, and regularly updated registration information. Participants are prohibited from selecting a Fherma User ID that they do not have the right to use, or using another person's name with the intent to impersonate them. Account transfer to another individual is not permitted without prior written consent from Company. Furthermore, Participants are restricted from having, controlling, or operating more than one active Fherma account or Fherma User ID. If it is discovered that a Participant possesses, controls, or operates multiple Fherma accounts or Fherma User IDs, Company may take corrective action, which may include the suspension or banning of the user account, revocation of access to the Fherma User ID, and disqualification from any ongoing Challenges.
+To submit a Solution, Participants must create an account by selecting a password and a username known as the "Fherma User ID". Participants commit to providing Fair Math with precise, complete, and regularly updated registration information. Participants are prohibited from selecting a Fherma User ID that they do not have the right to use, or using another person's name with the intent to impersonate them. Account transfer to another individual is not permitted without prior written consent from Company. Furthermore, Participants are restricted from having, controlling, or operating more than one active Fherma account or Fherma User ID. If it is discovered that a Participant possesses, controls, or operates multiple Fherma accounts or Fherma User IDs, Company may take corrective action, which may include the suspension or banning of the user account, revocation of access to the Fherma User ID, and disqualification from any ongoing Challenges.
 
 If a Participant is agreeing to these Terms on behalf of an organization or entity, they confirm that they are authorized to do so on behalf of that organization or entity. This means that references to "Participant" in these Terms, except for in this sentence, refer to that organization or entity. However, the Participant is still required to create an account for their organization with a unique Fherma User ID.
 
@@ -96,7 +96,7 @@ Regardless of any provision in these Terms to the contrary, the Participant shal
 
 ## Processing of Personal Data
 
-Yasha Lab takes the privacy of its users very seriously. For the current Yasha Lab Privacy Policy, please click [here](https://fherma.io/privacy)
+Fair Math takes the privacy of its users very seriously. For the current Fair Math Privacy Policy, please click [here](https://fherma.io/privacy)
 
 
 ## Applicable Law and Jurisdiction
